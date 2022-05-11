@@ -1,1 +1,1 @@
-This is a fantastic tutorial on Git.
+This is a gggreat tutorial on Git.
